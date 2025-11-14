@@ -66,5 +66,5 @@ file inside `my_folder/`.
 
 ## Author
 
-**Saviour (SyntaxX)** Backend Developer in training --- passionate about
-Python, Django, and Mediverse.
+**Saviour (SyntaxX)** Backend Developer --- passionate about
+Python and Django.
